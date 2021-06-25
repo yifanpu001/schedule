@@ -9,3 +9,5 @@
 2. Accuracy = SVR(d1, d2, d3, d4, w1, w2, w3, w4, r)
    1. Does the searching process right?
    2. Should we design a new sample rule and sample some 10 epoch results again?
+
+# Master Thesis
